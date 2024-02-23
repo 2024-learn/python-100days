@@ -8,7 +8,7 @@
 - Day 4:    Randomization and Python Lists
 - Day 5:    For Loops, Range and Code Blocks
 - Day 6:    Functions, Code Blocks and While Loops
-- Day 7:    Hangman Project
+- Day 7:    Hangman Project <https://developers.google.com/edu/python/lists#for-and-in>
 - Day 8:
 - Day 9:
 - Day 10:
