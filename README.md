@@ -1,6 +1,7 @@
 # Python-100days
 
-- __BEGINNER:__
+## BEGINNER
+
 - Day 1:    Intro to Python, Working with Variables
 - Day 2:    Data Types and Manipulating Strings
 - Day 3:    Conditional Statements, Logical Operators, Code Blocks and Scope
@@ -15,7 +16,9 @@
 - Day 12:
 - Day 13:
 - Day 14:
-- __INTERMEDIATE:__
+
+## INTERMEDIATE
+
 - Day 15:
 - Day 16:
 - Day 17:
@@ -59,7 +62,9 @@
 - Day 55:
 - Day 56:
 - Day 57:
-- __Advanced:__
+
+## Advanced
+
 - Day 58:
 - Day 59:
 - Day 60:
@@ -84,7 +89,9 @@
 - Day 79:
 - Day 80:
 - Day 81:
-- __Professional:__
+
+## Professional
+
 - Day 82:
 - Day 83:
 - Day 84:
@@ -105,7 +112,7 @@
 - Day 99:
 - Day 100:
 
-
+## Python Built-in Functions
 
 |Function       |Description                                                                                  |
 |---------------|---------------------------------------------------------------------------------------------|
@@ -177,7 +184,7 @@
 |vars()         |Returns the __dict__ property of an object                                                   |
 |zip()          |Returns an iterator, from two or more iterators                                              |
 
-## references
+## References
 
 - <https://note.nkmk.me/en/python-random-shuffle/>
 -
