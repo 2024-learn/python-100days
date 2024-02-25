@@ -10,8 +10,8 @@
 - Day 6:    Functions, Code Blocks and While Loops
 - Day 7:    Hangman Project <https://developers.google.com/edu/python/lists#for-and-in>
 - Day 8:    Function Parameters and Caesar Cipher
-- Day 9:
-- Day 10:
+- Day 9:    Dictionaries & Nesting <https://www.codecademy.com/learn/dacp-python-fundamentals/modules/dscp-python-dictionaries/cheatsheet>
+- Day 10:   
 - Day 11:
 - Day 12:
 - Day 13:
