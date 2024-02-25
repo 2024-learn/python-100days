@@ -9,7 +9,7 @@
 - Day 5:    For Loops, Range and Code Blocks
 - Day 6:    Functions, Code Blocks and While Loops
 - Day 7:    Hangman Project <https://developers.google.com/edu/python/lists#for-and-in>
-- Day 8:
+- Day 8:    Function Parameters and Caesar Cipher
 - Day 9:
 - Day 10:
 - Day 11:
